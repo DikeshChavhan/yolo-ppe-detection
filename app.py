@@ -1,1 +1,2 @@
+model = YOLO("best.pt")
 
